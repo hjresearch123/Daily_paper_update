@@ -93,8 +93,7 @@ Experimentation, Evaluation, Benchmarking
 ## Usage
 
 ```bash
-# Clone repo
-git clone https://github.com/Haseebjaved123/Daily_paper_update.git
+# Clone 
 
 # Go to current month
 cd Daily_paper_update/2025/september/
